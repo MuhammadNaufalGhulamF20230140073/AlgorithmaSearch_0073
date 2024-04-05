@@ -52,3 +52,4 @@ while (i < n)
     }
     if ( i == n)
     cout << "\n" << item << " Not Found in Array\n ";
+    cout << "\nNumber Comparisons: " << ctr << endl;
