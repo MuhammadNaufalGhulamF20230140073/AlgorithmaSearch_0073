@@ -31,3 +31,8 @@ void LinearSearch()
     char ch;
     int ctr;
     int item;
+
+     do
+    {
+    cout << "\n Enter The Elemen you Want to Search ";
+    cin >> item;
