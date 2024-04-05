@@ -41,3 +41,5 @@ void LinearSearch()
     i = 0;
 
 while (i < n)
+{
+    ctr++;
