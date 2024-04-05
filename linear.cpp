@@ -44,3 +44,6 @@ while (i < n)
 {
     ctr++;
     if (arr[i] == item)
+ {
+        cout << "\n" << item << " Found at Position " << (i + 1) << endl;
+     
