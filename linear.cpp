@@ -56,3 +56,5 @@ while (i < n)
 
     cout << "\nContinue Search (y/n): ";
     cin >> ch;
+    } while ((ch == 'y' ) || (ch == 'Y'));
+}
